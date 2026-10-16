@@ -1,0 +1,14 @@
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+captures/
+.externalNativeBuild
+.cxx
+
+# Offline models must never go to GitHub or the APK
+*.task
+*.litertlm
+*.bin
+*.tflite
